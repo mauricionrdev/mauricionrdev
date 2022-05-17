@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mauricionrdev/mauricionrdev/main/bannergithub.png" width="100%">
+<img src="https://raw.githubusercontent.com/mauricionrdev/mauricionrdev/main/assets/bannergithub.png" width="100%">
 
 \*\*Hi, I'm Mauricio!
 
