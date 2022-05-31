@@ -4,7 +4,7 @@
 
 **About me:**
 
--   💻 I'm web developer since 2021
+-   💻 I'm web developer since 2020
 -   ⚛️ JavaScript | React | NodeJS
 -   📫 How to reach me:
 
